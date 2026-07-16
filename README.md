@@ -45,19 +45,19 @@ The dashboard is built using historical UK pharmaceutical sales transaction data
 
 ### Executive Sales Overview
 
-![Executive Sales Overview](screenshots/executive-sales-overview.png)
+![Executive Sales Overview](screenshots/executive-sales-overview.PNG)
 
 ### Product Performance
 
-![Product Performance](screenshots/product-performance.png)
+![Product Performance](screenshots/product-performance.PNG)
 
 ### Customer Performance
 
-![Customer Performance](screenshots/customer-performance.png)
+![Customer Performance](screenshots/customer-performance.PNG)
 
 ### Price vs Quantity Analysis
 
-![Price vs Quantity Analysis](screenshots/price-vs-quantity-analysis.png)
+![Price vs Quantity Analysis](screenshots/price-vs-quantity-analysis.PNG)
 
 
 
